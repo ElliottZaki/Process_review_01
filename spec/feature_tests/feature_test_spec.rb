@@ -1,0 +1,1 @@
+require './lib/school_report.rb'

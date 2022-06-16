@@ -31,7 +31,3 @@ describe '.results_given?' do
     expect { results_given?(classroom_grades) }.to raise_error("No results given")
   end
 end
-
-#     expect(results_given?(classroom_grades)).to raise_error ("No results given")
-#   end
-# end

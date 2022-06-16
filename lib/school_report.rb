@@ -1,7 +1,7 @@
 classroom_grades = "Green, Green, Red, Amber, Red".split(", ")
 
 def school_report(individual_grades)
-  return individual_grades.each { |grade, amount| print "The classroom scored: #{amount}x #{grade}\n " }
+  individual_grades.each { |grade, amount| print "The classroom scored: #{amount}x #{grade}\n " }
 end
 
 def tally_grades(classroom_grades)

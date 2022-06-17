@@ -1,4 +1,6 @@
-# Project title: SchoolReport - External Process review 01
+# Project title: 
+SchoolReport - External Process review 01
+
 # Motivation: 
 This is my first external process review. For this exercise, I was assessed primarily on the process of how i attempt to create a programme. Abilities around Agile skills, TDD, information gathering, planning and communication were observed. A typical individual is assessed over a period of 30x minutes before recieving feedback.
 # Opening statement:
